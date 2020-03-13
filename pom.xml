@@ -504,7 +504,7 @@
     </repository>
 
 
-    </snapshotRepository>
+    
 
   </distributionManagement>
 </project>
